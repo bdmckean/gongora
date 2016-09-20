@@ -7,7 +7,7 @@ import sys
 import argparse, socket
 from datetime import datetime
 
-DEFAULT_PORT  = 10601
+DEFAULT_PORT  = 8000
 MAX_BYTES = 65535
 
 def TimestampMillisec():

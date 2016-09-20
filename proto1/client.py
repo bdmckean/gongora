@@ -9,7 +9,7 @@ from datetime import datetime
 
 from statistics import mean, stdev
 
-DEFAULT_PORT  = 10601
+DEFAULT_PORT  = 8000
 MAX_BYTES = 65535
 
 SAMPLES =  5
